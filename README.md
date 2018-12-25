@@ -1,16 +1,7 @@
 # flutter_fire_login
 
-A new Flutter project.
+A project showcasing the Firebase Authentication using Google Account
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Packages used
+- [Firebase Auth](https://pub.dartlang.org/packages/firebase_auth)
+- [Google Sign in](https://pub.dartlang.org/packages/google_sign_in) required by firebase auth to use sign in using google account
